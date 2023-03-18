@@ -1,0 +1,3 @@
+2023-03-18 12:58:58.552 [main] INFO  pages.BasePage - PASSED - Text found in element: Invalid email or password MATCHES expected text: Invalid email or password
+2023-03-18 12:59:04.658 [main] INFO  pages.BasePage - PASSED - Text found in element: Invalid email or password MATCHES expected text: Invalid email or password
+2023-03-18 12:59:11.445 [main] INFO  pages.BasePage - PASSED - Text found in element: Invalid email or password MATCHES expected text: Invalid email or password

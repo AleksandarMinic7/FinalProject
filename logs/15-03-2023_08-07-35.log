@@ -1,0 +1,2 @@
+2023-03-15 20:07:42.368 [main] INFO  pages.BasePage - PASSED - Text found in element: E-mail is required. MATCHES expected text: E-mail is required.
+2023-03-15 20:07:42.397 [main] INFO  pages.BasePage - PASSED - Text found in element: Password is required. MATCHES expected text: Password is required.
